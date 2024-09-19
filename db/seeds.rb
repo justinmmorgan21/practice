@@ -7,3 +7,6 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+Student.create(name: "Jimmy Jim", dob: "07/22/1978", email: "jimmy@k12.org");
+Student.create(name: "Dougy Doug", dob: "12/21/1999", email: "dougy@k12.org");
+Student.create(name: "Susie Su", dob: "01/01/1988", email: "susie@k12.org");
